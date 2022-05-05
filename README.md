@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dlyx24
 - 👀 I’m interested in girls
-- 🌱 I’m currently learning how to get girls
+- 🌱 I’m currently learning how to talk to girls
 - 💞️ I’m looking to collaborate on wingman nights
 - 📫 How to reach me local pub, every night
 
