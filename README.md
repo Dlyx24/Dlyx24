@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Dlyx24
-- 👀 I’m interested in girls
-- 🌱 I’m currently learning how to talk to girls
-- 💞️ I’m looking to collaborate on wingman nights
-- 📫 How to reach me local pub, every night
+- 👋 Hi, I’m @Dlyx24 (Hugo Alexandre)
+I have been working for a couple of year, started in 2018.
 
-<!---
-Dlyx24/Dlyx24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have been doing frontend development for a couple of years now, mainly using react written in Typescript. 
+I also touched on backend using Node, MySQL, Github Actions, Nginx and docker for small personal projects mainly for learning purpose.
+
+There is no magic and because of this I like to know how things work inside the box.
+
+Lately I have been focusing more on more advanced frontend aspects, like accessability, UX, performance and best practices. 
+
+
