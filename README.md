@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dlyx24 (Hugo Alexandre)
 
-I have been working since 2018 after I took my Bsc in Computer Science.
+I started working in 2018 after I finished my Bsc in Computer Science.
 
 I have been doing frontend development for a few years now, mainly using react written in Typescript. 
 I also touched on backend using Node, MySQL, GitHub Actions, Nginx and docker for small personal projects mainly for learning purpose.
