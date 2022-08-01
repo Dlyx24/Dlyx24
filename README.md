@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Dlyx24 (Hugo Alexandre)
+
 I have been working since 2018 after I took my Bsc in Computer Science.
 
 I have been doing frontend development for a few years now, mainly using react written in Typescript. 
