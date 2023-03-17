@@ -9,7 +9,7 @@ As of a goal for 2023, I want to contribute to some open source project that sui
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hugoalex96/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="hugo-alex" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hugoalex96/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="hugo-alex" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
