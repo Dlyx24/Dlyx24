@@ -6,3 +6,5 @@ I have been doing frontend development for a few years now using React and Types
 
 Lately my interest has been more on open source projects and learning from the community. 
 As of a goal for 2023, I want to contribute to some open source project that suits my interests.
+
+![Dlyx24's github stats](https://github-readme-stats.vercel.app/api?username=dlyx24&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
