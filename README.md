@@ -4,8 +4,9 @@ I started working in 2018 after I finished my Bsc in Computer Science.
 
 I have been doing frontend development for a few years now mainly using React.
 
-Lately my interest has been more on open source projects and learning from the community. 
-As of a goal for 2023, I want to contribute to some open source project that suits my interests. - Now achieved as I did my first ever open source contribution to <a href="https://github.com/climateconnect/climateconnect" target="_blank">Climate connect</a>
+Lately my interest has been more about backend and transitioning to a more fullstack position.
+
+As of a goal for 2024, I want to create an webapp that will force me to get out of the frontend zone and into backend world.
 
 
 <h3 align="left">Connect with me:</h3>
