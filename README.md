@@ -4,10 +4,9 @@ I started working in 2018 after I finished my Bsc in Computer Science.
 
 I have been doing frontend development for a few years now mainly using React.
 
-Lately my interest has been more about backend and transitioning to a more fullstack position.
+Last year I started working more on backend transitioning to more of a fullstack role. It's been great fun so far! 
 
-As of a goal for 2024, I want to create an webapp that will force me to get out of the frontend zone and into backend world.
-
+Lately my interests have shifted more to algorithm challenges and architecture design. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
