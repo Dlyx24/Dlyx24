@@ -4,7 +4,7 @@ I started working in 2018 after I finished my Bsc in Computer Science.
 
 I have been doing frontend development for a few years now mainly using React.
 
-Last year I started working more on backend transitioning to more of a fullstack role. It's been great fun so far! 
+Last year I started working more on backend transitioning to a fullstack role. It's been great fun so far! 
 
 Lately my interests have shifted more to algorithm challenges and architecture design. 
 
