@@ -24,4 +24,4 @@ Lately my interests have shifted more to algorithm challenges and architecture d
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
     </p>
 
-![Dlyx24's github stats](https://github-readme-stats.vercel.app/api?username=dlyx24&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+# ![Dlyx24's github stats](https://github-readme-stats.vercel.app/api?username=dlyx24&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
